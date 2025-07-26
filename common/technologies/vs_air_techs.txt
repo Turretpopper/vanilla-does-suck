@@ -28,9 +28,7 @@ technologies =  {
 		}
 		
 		categories = {
-			light_air
 			light_fighter
-			air_equipment
 		}
 		
 		ai_will_do = {
